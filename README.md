@@ -70,60 +70,60 @@ TicketMedio = DIVIDE(
 
 ## 🔎 Análises Realizadas
 
-*Comparação do total de vendas por categoria
+- **Comparação do total de vendas por categoria**
 
-*Evolução das vendas ao longo do tempo (Ano e Mês)
+- **Evolução das vendas ao longo do tempo (Ano e Mês)**
 
-*Identificação dos produtos com maior volume de vendas e lucro
+- **Identificação dos produtos com maior volume de vendas e lucro**
 
-*Análise geográfica de vendas por região
+- **Análise geográfica de vendas por região**
 
-*Identificação de tendências de crescimento no faturamento
+- **Identificação de tendências de crescimento no faturamento**
 
 ## ⚠️ Observação sobre a Margem de Lucro
 
 **A margem de lucro elevada (acima de 100%) pode chamar atenção à primeira vista.**
 
-Isso ocorre devido às características da própria base de dados SuperStore, que contém:
+- Isso ocorre devido às características da própria base de dados SuperStore, que contém:
 
-Registros com lucros muito altos
+- Registros com lucros muito altos
 
-Valores negativos em alguns produtos
+- Valores negativos em alguns produtos
 
-Estrutura voltada para aprendizado e simulação, não para um cenário financeiro real
+- Estrutura voltada para aprendizado e simulação, não para um cenário financeiro real
 
-O objetivo do projeto não foi ajustar ou alterar os dados, mas sim:
+- O objetivo do projeto não foi ajustar ou alterar os dados, mas sim:
 
-Trabalhar com a base original
+- Trabalhar com a base original
 
-Entender o impacto dos dados nos cálculos
+- Entender o impacto dos dados nos cálculos
 
-Focar em modelagem, DAX e visualização
+- Focar em modelagem, DAX e visualização
 
-Esse ponto foi tratado como aprendizado técnico, e não como erro.
+- Esse ponto foi tratado como aprendizado técnico, e não como erro.
 
 ## 🛠️ Ferramentas Utilizadas
 
-*Power BI Desktop
+Power BI Desktop
 
-*DAX para criação de medidas
+DAX para criação de medidas
 
-*Power Query para tratamento e transformação de dados
+Power Query para tratamento e transformação de dados
 
-*Visualizações nativas do Power BI (gráficos, tabelas e mapa)
+Visualizações nativas do Power BI (gráficos, tabelas e mapa)
 
 ## 📌 Considerações Finais
 
-*Este projeto faz parte do meu portfólio de Análise de Dados e representa uma evolução em relação a dashboards iniciais, com maior volume de dados, mais indicadores e análises mais completas.
+**Este projeto faz parte do meu portfólio de Análise de Dados e representa uma evolução em relação a dashboards iniciais, com maior volume de dados, mais indicadores e análises mais completas.**
 
 O foco foi criar um dashboard:
 
-*Organizado
+Organizado
 
-*Visualmente limpo
+Visualmente limpo
 
-*Com leitura clara
+Com leitura clara
 
-*Próximo de um cenário real de negócio
+Próximo de um cenário real de negócio
 
-*Feedbacks e sugestões são sempre bem-vindos!
+Feedbacks e sugestões são sempre bem-vindos!
